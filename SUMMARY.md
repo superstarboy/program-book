@@ -3,6 +3,9 @@
 * [Introduction](README.md)
 
 -----
+* [并发](bingfa/README.md)
+* [多线程](duoxiancheng/README.md)
+* [设计模式](shejimoshi/README.md)
 * [语言](lanwage/README.md)
     * [PHP相关](lanwage/php/README.md)
         * [框架](lanwage/php/frame/README.md)
@@ -32,9 +35,15 @@
         * [语法](lanwage/python/grammar/README.md)
             * [基础语法](lanwage/python/grammar/base.md)
     * [JAVA相关](lanwage/java/README.md)
+        * [基础](lanwage/java/base.md)
         * [linux命令相关](lanwage/java/command.md)
+        * [多线程](lanwage/java/duoxiancheng.md)
+        * [高并发](lanwage/java/gaobingfa.md)
         * [框架](lanwage/java/frame/README.md)
             * [halo博客站](lanwage/java/frame/halo.md)
+            * [spring-cloud](lanwage/java/frame/springCloud.md)
+            * [spring](lanwage/java/frame/spring.md)
+            * [spring-boot](lanwage/java/frame/springBoot.md)
     * [markdown](lanwage/markdown/README.md)
         * [markdown语法](lanwage/markdown/markdown.md)
 * [服务器相关](server/README.md)
@@ -67,6 +76,7 @@
 * [深度学习](deepstudy/README.md)
 * [协议相关](protocol/README.md)
     * [REST-API](protocol/restapi.md)
+* [github](github/README.md)
 * [杂项](miscellaneous/README.md)
 * [调试](miscellaneous/debug.md)
 
